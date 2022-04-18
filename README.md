@@ -1,4 +1,4 @@
-# SpecFlow Documentation.
+# SpecFlow Documentation
 
 SpecFlow is a test automation solution for .NET built upon the BDD paradigm. 
 
@@ -7,7 +7,7 @@ This repo consists of notes and sample code from the official Tricentis [documen
 ### Getting Started
 * [Installation](#01)
 
-### Notes and Projects
+### Notes
 * [Ch1 - Our First Project](Chapter1.md)
 * [Ch2 - Guides & Examples](Chapter2.md)
 * [Ch3 - Gherkin](Chapter3.md)
@@ -28,7 +28,7 @@ This repo consists of notes and sample code from the official Tricentis [documen
 * .NET 5
 * Workloads: ASP.NET and web development **OR** .NET Desktop environment **OR** .NET Core cross-platform development
 
-#### Installing SpecFLow Extension
+#### Installing SpecFlow Extension
 
 1. Open Visual Studio
 2. Navigate through **Extensions | Manage Extensions | Online**
