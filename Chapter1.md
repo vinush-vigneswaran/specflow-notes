@@ -9,7 +9,7 @@ Return [Home](README.md)
 * [1.4 - Automating the First Scenario](#01.4)
 * [1.5 - Completing first Scenario](#01.5)
 * [1.6 - Fixing the Implementation](#01.6)
-
+* [1.7 - Living Documentation](#01.7)
 * [1.10 - Question & Answer](#01.10)
 The code for this section can be found in ``code/Chapter01``
 
@@ -226,19 +226,16 @@ The code for this section can be found in ``code/Chapter01``
     ```
 * Tests have now passed.
 
+> Check out the code folder to see how a subtract scenario is implemented.
 
-
-
-
-
-
-
-
-
-
-
-
-
+---
+<a name="01.7"></a>
+### 1.7 - Living Documentation
+1. Go to command prompt and type: ``dotnet tool install --global SpecFlow.Plus.LivingDoc.CLI``
+2. Navigate to the output directory of the SpecFlow project: ``cd ...\code\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netnet6.0``
+3. Run: ``livingdoc test-assembly SpecFlowCalculator.Specs.dll -t TestExecution.json``
+4. Open the ``LivingDoc.html`` file which will be stored in the output directory from step 2.
+5. Explore your test.
 
 <a name="01.10"></a>
 ### 1.10 - Question & Answer
