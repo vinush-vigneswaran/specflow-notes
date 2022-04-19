@@ -18,14 +18,14 @@ The code for this section can be found in ``code/Chapter01``
 ### 1.1 - Creating the System Under Test (SUT)  
 * We will make a calculator project, which we will then test.
 * Create a new project:
-    1. Click on "Create new project" in startup dialog
+    1. Click on "Create new project" in start-up dialog
     2. Choose the template as:``Class Library``
     3. Project name: ``SpecFlowCalculator``
     4. Location: ``..\code``
     5. Solution name: ``SpecFlowCalculator``
     6. Choose the ``.NET 5 (Current)`` framework (if this is not present in the dropdown you must install it as ``individual components``).
 
-* We will now add the follwoing code to create the calculator.
+* We will now add the following code to create the calculator.
     1. Rename ``Class1.cs`` to ``Calculator.cs``.
     2. Insert the following code:
     ```C#
@@ -73,7 +73,7 @@ The code for this section can be found in ``code/Chapter01``
     2. Right-click on ``Dependencies`` and press ``Add Project Reference...``.
     3. In the reference manager, add ``SpecFlowCalculator``
     4. Build the solution
-* There should be a test already added to the SpecFlow project byt the template:
+* There should be a test already added to the SpecFlow project by the template:
     1. Navigate to **Test | Test Explorer**
     2. Run ``All Tests in View`` in the top right corner.
     3. The test should fail.
@@ -108,7 +108,7 @@ The code for this section can be found in ``code/Chapter01``
     }
     ```
     5. ``Build`` and then go to ``Test Explorer`` and run all tests.
-    6. Press on the ``add two number`` test, and a ``Test Details Summary`` should pop up, with the following standard ouput:
+    6. Press on the ``add two number`` test, and a ``Test Details Summary`` should pop up, with the following standard output:
         ```
     Given the first number is 50
     -> done: CalculatorStepDefinitions.GivenTheFirstNumberIs(50) (0.0s)
@@ -247,7 +247,7 @@ The code for this section can be found in ``code/Chapter01``
 1. What are the differences between the different test frameworks (xUnit, NUnit, etc.)?</b></summary>
 <br>
 * These are both unit test frameworks
-* NUnit was developped for the .NET framework ported from JUnit.
+* NUnit was developed for the .NET framework ported from JUnit.
 * xUnit is a more recent Unit Testing Framework
 * The main difference between the two is that NUnit will run all the tests using the same class instance, while xUnit will create a new instance for each test.
 <br><br></details>
