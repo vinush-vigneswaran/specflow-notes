@@ -10,7 +10,8 @@ Return [Home](README.md)
 * [1.5 - Completing first Scenario](#01.5)
 * [1.6 - Fixing the Implementation](#01.6)
 * [1.7 - Living Documentation](#01.7)
-* [1.10 - Question & Answer](#01.10)
+* [1.8 - Question & Answer](#01.8)
+
 The code for this section can be found in ``code/Chapter01``
 
 ---
@@ -109,7 +110,7 @@ The code for this section can be found in ``code/Chapter01``
     ```
     5. ``Build`` and then go to ``Test Explorer`` and run all tests.
     6. Press on the ``add two number`` test, and a ``Test Details Summary`` should pop up, with the following standard output:
-        ```
+    ```
     Given the first number is 50
     -> done: CalculatorStepDefinitions.GivenTheFirstNumberIs(50) (0.0s)
     And the second number is 70
@@ -118,7 +119,7 @@ The code for this section can be found in ``code/Chapter01``
     -> skipped because of previous errors
     Then the result should be 120
     -> skipped because of previous errors
-        ```
+    ```
 * Since we have defined step definition for ``GivenTheFirstNumberIs(int number)``, in the standard output we get a ``done`` status. The remaining steps are still undefined, therefore marked with ``pending`` status.
 * ``done`` means the step executed successfully with no errors.
 
@@ -215,7 +216,7 @@ The code for this section can be found in ``code/Chapter01``
 * Build and then run the test. 
 * Standard Output:
     ```
-        Given the first number is 50
+    Given the first number is 50
     -> done: CalculatorStepDefinitions.GivenTheFirstNumberIs(50) (0.0s)
     And the second number is 70
     -> done: CalculatorStepDefinitions.GivenTheSecondNumberIs(70) (0.0s)
@@ -237,8 +238,8 @@ The code for this section can be found in ``code/Chapter01``
 4. Open the ``LivingDoc.html`` file which will be stored in the output directory from step 2.
 5. Explore your test.
 
-<a name="01.10"></a>
-### 1.10 - Question & Answer
+<a name="01.8"></a>
+### 1.8 - Question & Answer
 <br>
 
 <details>
