@@ -1,0 +1,12 @@
+C:\Users\VINUS\Documents\35_CSHARP\specflow-notes\code\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net5.0\SpecFlowCalculator.deps.json
+C:\Users\VINUS\Documents\35_CSHARP\specflow-notes\code\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net5.0\SpecFlowCalculator.dll
+C:\Users\VINUS\Documents\35_CSHARP\specflow-notes\code\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net5.0\SpecFlowCalculator.pdb
+C:\Users\VINUS\Documents\35_CSHARP\specflow-notes\code\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net5.0\SpecFlowCalculator.csproj.AssemblyReference.cache
+C:\Users\VINUS\Documents\35_CSHARP\specflow-notes\code\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net5.0\SpecFlowCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VINUS\Documents\35_CSHARP\specflow-notes\code\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net5.0\SpecFlowCalculator.AssemblyInfoInputs.cache
+C:\Users\VINUS\Documents\35_CSHARP\specflow-notes\code\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net5.0\SpecFlowCalculator.AssemblyInfo.cs
+C:\Users\VINUS\Documents\35_CSHARP\specflow-notes\code\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net5.0\SpecFlowCalculator.csproj.CoreCompileInputs.cache
+C:\Users\VINUS\Documents\35_CSHARP\specflow-notes\code\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net5.0\SpecFlowCalculator.dll
+C:\Users\VINUS\Documents\35_CSHARP\specflow-notes\code\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net5.0\refint\SpecFlowCalculator.dll
+C:\Users\VINUS\Documents\35_CSHARP\specflow-notes\code\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net5.0\SpecFlowCalculator.pdb
+C:\Users\VINUS\Documents\35_CSHARP\specflow-notes\code\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net5.0\ref\SpecFlowCalculator.dll

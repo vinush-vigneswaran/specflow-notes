@@ -1,4 +1,4 @@
-# SpecFlow Documentation
+# SpecFlow: A BDD Framework for .NET
 
 SpecFlow is a test automation solution for .NET built upon the BDD paradigm. 
 
