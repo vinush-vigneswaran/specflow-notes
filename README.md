@@ -6,6 +6,7 @@ This repo consists of notes and sample code from the official Tricentis [documen
 
 ### Getting Started
 * [Installation](#01)
+* [What is Behavior Driven Development (BDD)?](#02)
 
 ### Notes
 * [Ch1 - Our First Project](Chapter1.md)
@@ -35,3 +36,9 @@ This repo consists of notes and sample code from the official Tricentis [documen
 3. Search "SpecFlow"
 4. Download
 5. Check installed by navigating to **Extensions | Manage Extensions**
+
+---
+<a name="02"></a>
+### What is Behavior Driven Development (BDD)?
+
+* Behavior-driven development (BDD) is an Agile software development methodology in which an application is documented and designed around the **behavior a user expects to experience** when interacting with it.
