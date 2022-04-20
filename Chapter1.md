@@ -12,7 +12,7 @@ Return [Home](README.md)
 * [1.7 - Living Documentation](#01.7)
 * [1.8 - Question & Answer](#01.8)
 
-The code for this section can be found in ``code/Chapter01``
+The code for this section can be found in ``code/SpecFlowCalculator``
 
 ---
 <a name="01.1"></a>
