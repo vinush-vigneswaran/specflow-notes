@@ -10,7 +10,7 @@ This repo consists of notes and sample code from the official Tricentis [documen
 
 ### Notes
 * [Ch1 - Our First Project](Chapter1.md)
-* [Ch2 - Guides & Examples](Chapter2.md)
+* [Ch2 - Selenium with Page Object Model Pattern](Chapter2.md)
 * [Ch3 - Gherkin]<!-- (Chapter3.md) -->
 * [Ch4 - Bindings]<!-- (Chapter4.md) -->
 * [Ch5 - Execution]<!-- (Chapter5.md) -->
